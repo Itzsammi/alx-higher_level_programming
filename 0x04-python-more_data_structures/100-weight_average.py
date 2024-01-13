@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def best_score(a_dictionary):
+def weight_average(my_list=[]):
     if not my_list:
         return 0
     score = 0
